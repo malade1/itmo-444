@@ -1,1 +1,0 @@
-This is first classwork in cloud computing technologies to shows how to create textfile
